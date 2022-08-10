@@ -1,3 +1,11 @@
+.center {
+    margin: auto;
+    display: flex;  
+    justify-content: center; /* for horizontal */
+    align-items: center; /* for vertical */
+    text-align: center;
+}
+
 .button {
     border: none;
     color: white;
@@ -12,8 +20,8 @@
 }
 
 .button1 {
-    background-color: rgb(131, 203, 255); 
-    color: black; 
+    background-color: rgb(131, 203, 255);
+    color: black;
     border: 2px solid #1b186b;
 }
 
