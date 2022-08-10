@@ -1,6 +1,7 @@
 .center {
     margin: auto;
-    display: flex;  
+    display: flex;
+    flex-direction: column;
     justify-content: center; /* for horizontal */
     align-items: center; /* for vertical */
     text-align: center;
