@@ -2,11 +2,11 @@
     margin: auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    /* for horizontal */
+    justify-content: space-evenly;
     align-items: center;
-    /* for vertical */
     text-align: center;
+    flex-wrap: wrap;
+    align-content: space-around;
 }
 
 .fitting-image {
